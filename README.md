@@ -1,16 +1,50 @@
-### Hi there 👋
+<h1 align="center">Hello there 🖐️, I'm Erik!</h1>
 
-<!--
-**erikzaina/erikzaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><img src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="230px"></h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Back-end Developer (C#).
+
+- ⌨️ Enthusiast in technology.
+
+- 🏠 Living in São Paulo, Brazil.
+
+- 📚 I’m currently learning about backend.
+
+- ✉️ How to reach me: erik.zaina2@gmail.com
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/erikzaina/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
+</a>
+
+### Languages and Tools:
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+</a>
+<a href="https://dotnet.microsoft.com/pt-br/languages/csharp"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/>
+</a>
+<a href="https://git-scm.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
+</a>
+<a href="https://www.mysql.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px"/>
+</a>
+<a href="https://www.python.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
+</a>
+<a href="https://www.djangoproject.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40px"/>
+</a>
+
+ 
+          
+          
+          
+          
+
+          
+          
+          
+
