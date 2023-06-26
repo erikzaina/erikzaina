@@ -22,7 +22,7 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
 </a>
-<a href="https://dotnet.microsoft.com/pt-br/languages/csharp"></a>
+<a href="https://dotnet.microsoft.com/pt-br/languages/csharp">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/>
 </a>
 <a href="https://www.mysql.com">
