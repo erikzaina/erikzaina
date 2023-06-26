@@ -25,11 +25,6 @@
 <a href="https://dotnet.microsoft.com/pt-br/languages/csharp"></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/>
 </a>
-<a href="https://git-scm.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
-</a>
-
-
 <a href="https://www.mysql.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px"/>
 </a>
