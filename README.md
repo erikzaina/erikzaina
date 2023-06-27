@@ -9,7 +9,7 @@
 
 - 🏠 Living in São Paulo, Brazil.
 
-- 📚 I’m currently learning about backend.
+- 📚 Currently, I am studying Computer Science.
 
 - ✉️ How to reach me: erik.zaina2@gmail.com
 
