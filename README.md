@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="230px"></h1>
 
 
-- 💻 Full-Stack Developer.
+- 💻 Data Engineer.
 
 - ⌨️ Enthusiast in technology.
 
