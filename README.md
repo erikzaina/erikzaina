@@ -1,9 +1,9 @@
-<h1 align="center">Hello there 🖐️, I'm Erik!</h1>
+ <h1 align="center">Hello there 🖐️, I'm Erik!</h1>
 
 <h1 align="center"><img src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="230px"></h1>
 
 
-- 💻 Data Engineer.
+- 💻 Developer and Data Engineer.
 
 - ⌨️ Enthusiast in technology.
 
